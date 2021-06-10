@@ -75,8 +75,7 @@ while(i <level){
 
 
 function check(){
-console.log("rand key : "+keyArr);
-console.log("myclicks : "+myClicks);
+
 blocker3=1;
 var j=0;
 var x=0;
