@@ -9,7 +9,8 @@ By playing this game children can increase their sequential processing, short-te
 
 1. Press the START button. Simon will give the first signal. Repeat the signal by pressing the same color lens.
 
-2. Simon will duplicate the first signal and add one. Repeat these two signals by pressing the same color lenses, in order.
+2. Simon will duplicate the first signal and add one. Repeat these two signals by pressing the same color lenses
+, in order.
 
 3. Simon will duplicate these first two signals and add one.
 
